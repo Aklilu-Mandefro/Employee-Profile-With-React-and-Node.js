@@ -1,11 +1,11 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
-# Employee Directory with React and Node
+# Employees' Profile Information with React and Node
 
-Employee directory is a sample application that allows you to look up employees by name, view the details of an employee,
+This is a sample application that allows you to look up employees by name, view the details of an employee,
 call, text, or email an employee, and navigate up and down the org chart.
 
-This version of Employee Directory is built with [React](http://facebook.github.io/react/) and [Node.js]().
+This project is built with [React](http://facebook.github.io/react/) and [Node.js]().
 
 ![alt tag](assets/directory_search.png)
 
@@ -18,9 +18,6 @@ You can test the application in your browser:
 
 You can also run the application as a hybrid app in Cordova.
 
-## Hosted Version
-
-Click [here](http://react-directory.herokuapp.com) to run the hosted version in your browser.
 
 ## Running the Node.js Server Locally
 
