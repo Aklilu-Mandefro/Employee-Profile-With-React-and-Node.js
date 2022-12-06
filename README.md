@@ -164,3 +164,4 @@ application using the steps below.
     ```
     cordova emulate android
     ```
+<hr>
